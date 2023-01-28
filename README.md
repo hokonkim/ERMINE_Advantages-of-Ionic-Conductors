@@ -1,2 +1,2 @@
-# ERMINE_CrPoisoning
-This is a repository for ERMINE-CrPoisoning work.
+# ERMINE
+This is a repository for ERMINE application.
